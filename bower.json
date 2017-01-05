@@ -18,7 +18,6 @@
   ],
   "license": "MIT",
   "homepage": "http://www.yaoshining.com",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
