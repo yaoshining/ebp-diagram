@@ -1,0 +1,33 @@
+{
+  "name": "ebp-diagram",
+  "authors": [
+    "姚世宁 <ysnlvlqw@msn.com>"
+  ],
+  "description": "A flexible diagram generator for ebp platform.",
+  "main": "dist/ebp-diagram.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "ng",
+    "ebp",
+    "diagram"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.yaoshining.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.3.x"
+  }
+}
